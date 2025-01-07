@@ -9,7 +9,7 @@ public class poly {
         System.out.print(m);
         m++;
       }
-      System.out.println();
+      
     }
 
   }
