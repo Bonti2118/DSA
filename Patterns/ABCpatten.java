@@ -1,7 +1,7 @@
 public class ABCpatten {
     
     public static void main(String args[]){
-        int row = 3;
+        int row= 3;
         int col=3;
        
         for(int i=1;i<=row;i++){
