@@ -10,7 +10,7 @@ public class ABCpattern1 {
                 System.out.print(k);
                 k++;
             }
-            System.out.println( );
+            System.out.println();
         }
     }
 
